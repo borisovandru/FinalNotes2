@@ -7,12 +7,13 @@
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:src="@drawable/ic_launcher_background" />
+        android:src="@drawable/ic_launcher_background"
+        android:contentDescription="@string/todo" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Something sdhf ksfkjh" />
+        android:text="@string/hello" />
 
     <Button
         android:id="@+id/btn_ok"

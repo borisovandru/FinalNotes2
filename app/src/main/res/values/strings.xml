@@ -25,10 +25,12 @@
     <string name="option_four">Option Four</string>
     <string name="single_choice_dialog">Single Choice</string>
     <string name="select">Select</string>
-    <string name="multu_choice_dialog">Multi Choice</string>
+    <string name="multi_choice_dialog">Multi Choice</string>
     <string name="custom_view_dialog">Custom View Dialog</string>
     <string name="alert_dialog_fragment">Alert Dialog Fragment</string>
     <string name="dialog_fragment">Dialog Fragment</string>
+    <string name="TODO">TODO</string>
+    <string name="hello">Hello</string>
     <string name="todo">TODO</string>
 
 </resources>
